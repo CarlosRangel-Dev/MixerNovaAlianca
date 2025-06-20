@@ -6,6 +6,7 @@
   "repository": "",
   "author": "Mostafa Eweda <mostafa@c9.io>",
   "dependencies": {
+    "cookie-parser": "^1.4.7",
     "express": "^4.16.4"
   },
   "engines": {
