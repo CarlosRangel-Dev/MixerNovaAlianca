@@ -21,6 +21,7 @@ body {
   border: 1px solid rgb(66, 66, 66);
   z-index: 10;
   border-radius: 10px;
+  margin-bottom: 10px;
 }
 
 #waveCanvas {
@@ -40,6 +41,7 @@ body {
 #masterTools {
   position: fixed;
   top: 20px;
+  margin-bottom: 10px;
   height: 280px;
   width: 680px;
   text-align: center;
